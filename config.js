@@ -12,10 +12,10 @@ global.OwnerNumber = ['917510569273','15069831390','917356886454']
 global.ownertag = ['9901187845']
 global.BotName = "Miku"
 global.packname = "Miku bot"
-global.author = "❤️"
+global.author = ""
 global.OwnerName = "𝘿𝙖𝙧𝙠𝙚𝙭𝙚","𝙎𝙢𝙤𝙤𝙩𝙝 𝙎𝙚𝙧","𝙇𝙤𝙧𝙙 𝙀𝙧𝙚𝙣"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.BotSourceCode = ""
+global.SupportGroupLink = ""
 global.sessionName = "session"
 
 // Prefix //
